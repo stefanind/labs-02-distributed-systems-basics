@@ -1,0 +1,3 @@
+# Optional for PyTorch experiments in lessons 06, 11, and 13. No GPU required.
+# For a CUDA-specific build, use https://pytorch.org/get-started/locally/
+torch>=2.2,<3

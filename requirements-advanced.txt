@@ -1,0 +1,4 @@
+# Additional small dependencies for notebooks 07-13. Use Python 3.11+.
+numpy>=1.24,<3
+psutil>=5.9,<8
+threadpoolctl>=3.1,<4
